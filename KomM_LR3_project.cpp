@@ -29,6 +29,6 @@ class Program
     //Разрабатывается Комляковом Максимом
     static double CalculatePerimeter(double a)
     {
-
+                return 3 * a;
     }
 }
