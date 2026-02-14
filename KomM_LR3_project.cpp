@@ -23,7 +23,7 @@ class Program
     //Разрабатывается Комляковом Максимом
     static double CalculateArea(double a)
     {
-
+        return (a * a * Math.Sqrt(3)) / 4;
     }
 
     //Разрабатывается Комляковом Максимом
